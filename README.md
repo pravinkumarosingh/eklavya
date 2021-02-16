@@ -2,4 +2,4 @@
 
 Eklavya is the image resolution tool which can be used for image resolution enhancement.
 
-![Imgur](https://imgur.com/3EmtNu8)
+![blur img)(blur.png)
