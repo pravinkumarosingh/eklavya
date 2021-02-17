@@ -9,4 +9,5 @@ So there are lot's of image enhancement tool but what so special about this it i
 Tools used
 1. Python programming language
 2. [OpenCV](https://opencv.org/)
+3. Telegram Bot
 
